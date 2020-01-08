@@ -45,6 +45,12 @@ li {
     margin: 10px;
     color: orange;
     padding: 10px;
+    transition: all 3s;
+    cursor: pointer;
     
+}
+.square:hover {
+    height: 400px;
+    background-color: rgb(255, 255, 255) !important;
 }
 
